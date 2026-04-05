@@ -38,7 +38,7 @@ O Gestor levantou as seguintes questões organizadas em três visões analítica
 
 A base de dados utilizada contém registos de transacções bancárias com informações sobre o canal utilizado, localização, dispositivo, perfil do cliente e comportamento transaccional. Como o dataset original vinha numa única tabela, foi necessário decompô-lo em **Esquema Star** no Power Query, criando tabelas de dimensão e uma tabela facto. Foi também desenvolvido um **motor de Score de Risco** em DAX, que avalia cada transacção com base em quatro critérios comportamentais e classifica automaticamente as transacções como Seguras, Suspeitas ou Críticas.
 
-> **Fonte dos dados:** [Kaggle](https://www.kaggle.com) — *(substitui pelo link directo do dataset)*
+> **Fonte dos dados:** [Kaggle](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)
 
 ---
 
