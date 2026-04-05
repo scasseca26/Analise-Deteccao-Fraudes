@@ -342,11 +342,14 @@ As seguintes transacções apresentam o **Score de Risco máximo (85)** e devem 
 ##  Resultados
 
 <img width="1329" height="743" alt="DashboardFraude1" src="https://github.com/user-attachments/assets/e9060610-82a3-45ac-b712-17de23b35cfb" />
-
+<em>Figura 1: Visão Executiva</em>
+<br>
 <img width="1333" height="739" alt="DashboardFraude2" src="https://github.com/user-attachments/assets/b96f65eb-8fc4-4e4e-b13b-9529ebab420f" />
-
+<em>Figura 2: Diagnóstico</em>
+<br>
 <img width="1331" height="741" alt="DashboardFraude3" src="https://github.com/user-attachments/assets/77281bff-8b18-4b3e-ab37-4697c0c06828" />
-
+<em>Figura 3: Intervenção</em>
+<br>
 
 Com base na análise, é possível concluir que:
 
